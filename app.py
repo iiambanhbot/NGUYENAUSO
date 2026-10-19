@@ -37,7 +37,7 @@ def _get_safe_key(paper_id: str) -> str:
 
 # Cấu hình giao diện Streamlit (layout rộng, ẩn sidebar)
 st.set_page_config(
-    page_title="Nguyễn Huy Hoàng Lân Project - Research Finder",
+    page_title="Research Finder",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="collapsed",
